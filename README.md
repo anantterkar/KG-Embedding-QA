@@ -1,4 +1,4 @@
-![alt text](iitkgplogo.png)
+![alt text](iitkgplogo.jpg)
 **Knowledge Graph Embedding and Similar Fact Retrieval Using TransE and TransR**
 
 **Project Description:**
