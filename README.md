@@ -1,9 +1,9 @@
 **Knowledge Graph Embedding and Similar Fact Retrieval Using TransE and TransR**
 
-Project Description:
+**Project Description:**
 This project involves developing a custom implementation of two knowledge graph embedding techniques, TransE and TransR, to tackle key tasks in knowledge graph analysis. The objectives of the project are as follows:
 
-Implementation of Knowledge Graph Embeddings:
+**Implementation of Knowledge Graph Embeddings:**
 
 Develop custom implementations of TransE and TransR models to generate vector embeddings for entities and relations in a knowledge graph.
 1-Hop Question-Answering:
